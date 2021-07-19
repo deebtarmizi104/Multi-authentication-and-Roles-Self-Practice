@@ -5,6 +5,7 @@
 - Designing Database
 - Multi-authentication Users and Roles
 - Database Seeding
+- Multi-authentication Logic with Middleware
 
 ## Make use of:
 - LARAVEL 8.x
