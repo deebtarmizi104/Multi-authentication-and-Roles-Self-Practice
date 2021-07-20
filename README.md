@@ -6,6 +6,7 @@
 - Multi-authentication Users and Roles
 - Database Seeding
 - Multi-authentication Logic with Middleware as Protection
+    * Middleware is a filtering mechanism that verify where the users should go
 
 ## Make use of:
 - LARAVEL 8.x
