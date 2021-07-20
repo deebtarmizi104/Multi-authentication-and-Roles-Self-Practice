@@ -18,7 +18,7 @@
 - dbdesigner.net
 
 ## Footnotes
-  * install composer
+* install composer
 * unlinked composer
 * create laravel project - composer create-project --prefer-dist laravel/laravel projectname
 * update composer - composer require laravel/ui "^3.0" --dev
