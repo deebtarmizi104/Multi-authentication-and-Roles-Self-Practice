@@ -32,3 +32,4 @@
 * listing route - php artican r:l OR php artisan route:list
 * install laravel helpers - composer require laravel/helpers
 
+![image](https://user-images.githubusercontent.com/55779668/126507544-ddd5f5c0-dd92-42fc-ab8f-f7db2268fc51.png)
